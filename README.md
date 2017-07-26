@@ -28,7 +28,7 @@ deepSort(
   // Array wait to be sorted
   arr,
   // A tiny question in this problem is where we 
-  // put deep arrays —— the beginning or the end. 
+  // put deep arrays —— at the beginning or the end. 
   // With this param, you have choice. It means 
   // that when an array is compared with other non-array 
   // items, whether the array is always bigger. 

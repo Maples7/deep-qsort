@@ -1,6 +1,6 @@
 {
   "name": "deep-qsort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node module who does recursive quick sort over a deep array.",
   "main": "index.js",
   "dependencies": {},
