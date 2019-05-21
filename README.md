@@ -5,7 +5,7 @@
 [![NPM](https://nodei.co/npm/deep-qsort.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/deep-qsort/)
 [![NPM](https://nodei.co/npm-dl/deep-qsort.png?months=6&height=3)](https://nodei.co/npm/deep-qsort/)
 
-A node module who does recursive quick sort over a deep array.
+A node module who does recursive quick sort over a nested array.
 
 ## Usage
 
